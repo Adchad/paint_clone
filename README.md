@@ -1,6 +1,6 @@
 # paint_clone
 
-This is a placeholder for the github.io website
+Go to gh-pages to see the source code
 
 To test this program, go to https://adchad.github.io/paint_clone/
 
